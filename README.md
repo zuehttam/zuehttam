@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus Monteiro 👋
 
-[![Blog](https://img.shields.io/website?label=https%3A%2F%2Fzuehttam.tech%2F&style=for-the-badge&up_color=blue&up_message=Visitar&url=https%3A%2F%2Fzuehttam.tech%2F)](zuehttam.tech/)
+[![Blog](https://img.shields.io/website?label=https%3A%2F%2Fzuehttam.tech%2F&style=for-the-badge&up_color=blue&up_message=Visitar&url=https%3A%2F%2Fzuehttam.tech%2F)](https://zuehttam.tech/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuehttam/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zuehttam/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuehttam@gmail.com)
